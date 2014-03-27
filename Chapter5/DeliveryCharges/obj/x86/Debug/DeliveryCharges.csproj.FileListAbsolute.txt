@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\DeliveryCharges\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\DeliveryCharges\bin\Debug\DeliveryCharges.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\DeliveryCharges\bin\Debug\DeliveryCharges.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\DeliveryCharges\obj\x86\Debug\DeliveryCharges.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\DeliveryCharges\obj\x86\Debug\DeliveryCharges.pdb
