@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\CheckZips\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\CheckZips\bin\Debug\CheckZips.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\CheckZips\bin\Debug\CheckZips.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\CheckZips\obj\x86\Debug\CheckZips.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\CheckZips\obj\x86\Debug\CheckZips.pdb

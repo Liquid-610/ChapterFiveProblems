@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\Chapter5\bin\Debug\Chapter5.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\Chapter5\bin\Debug\Chapter5.pdb
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\Chapter5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\Chapter5\obj\x86\Debug\Chapter5.exe
+C:\Users\eahscs\Documents\GitHub\ChapterFiveProblems\Chapter5\Chapter5\obj\x86\Debug\Chapter5.pdb
