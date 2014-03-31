@@ -15,23 +15,25 @@ namespace CheckZips
             String input = Console.ReadLine();
             int n = Convert.ToInt32(input);
 
-            
+            int index = -1;
+
             for (int i = 0; i < zips.Length; i++)
             {
                 if (n == zips[i])
                 {
+                    index = i;
                     Console.WriteLine("Yes we deliver to your Zip Code");
                 }
-                else if (n != zips[i])
-                {
-                Console.WriteLine("We do not deliver to your Zip Code. Sorry.");
-                }
-            }
-              
-                    
- 
-                
                
+                
+            }
+
+
+
+            if (index == -1)
+            {
+                Console.WriteLine("We do not deliver to your Zip Code. Sorry.");
+            }
                     
                 
 

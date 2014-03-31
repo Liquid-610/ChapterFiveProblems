@@ -14,20 +14,25 @@ namespace DeliveryCharges
             Console.Write("Enter your Zipcode: ");
             String input = Console.ReadLine();
             int n = Convert.ToInt32(input);
+            int index = -1;
+            //bool isValiditem = false;
 
-
-            for (int i = 0; i < zips.Length; i++)
-            {
-                for int n = 0; n < charges.Length; n++)
-                if (n == zips[i])
+                for (int i = 0; i < zips.Length; i++)
                 {
-                    Console.WriteLine("Yes we deliver to your Zip Code. Your Charges will be{0}", charges[]);
+                   
+                    if (n == zips[i])
+                    { 
+                        index = i;
+                        Console.WriteLine("Yes we deliver to your Zip Code. Your Charges will be {0}", charges[i].ToString("C"));
+                    }
+               
                 }
-                else if (n != zips[i])
+
+
+                if (index == -1)
                 {
                     Console.WriteLine("We do not deliver to your Zip Code. Sorry.");
                 }
-            }
         }
     }
 }
